@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# redux-thunk-useSelector-useDispatch-hooks-iti-ola
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is not a real project ,it just for learning and trying . this simple project built with ReactJs [function-component][hooks] and redux thunk. 
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Links](#Links)
+- [Screenshot](#Screenshot)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#Acknowledgments)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## overview
+This is not a real project ,it just for learning and trying . this simple project built with ReactJs [function-component][hooks] and redux thunk. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
+To get started with this project, follow these steps:
 
-### `npm test`
+you can clone the project or download it as Zip file.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/olahasan/redux-thunk-useSelector-useDispatch-hooks-iti-ola.git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Navigate to the project directory:
+   cd <project-directory>
 
-### `npm run build`
+3. Install the required dependencies:
+   npm install   
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
+To run the application, use the following command:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm start
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Links
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you want to open the link in a new tab, you can:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Press **Ctrl** (or **Cmd** on Mac) while clicking the link.
+- Right-click the link and select **Open link in new tab**.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Otherwise, all links will open in the same tab.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Solution URL: [here](https://github.com/olahasan/redux-thunk-useSelector-useDispatch-hooks-iti-ola)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Live Site URL: [here](https://redux-thunk-useselector-usedispatch-hooks-iti-ola.surge.sh/) OR [here](https://redux-thunk-hooks-iti-ola.netlify.app/)
 
-### Code Splitting
+ ## Screenshot
+ 
+![Screenshot](./public/reduxthunk.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## what-i-learned
+Through this project:
+1. I learned in this project how to create react app and treat with function component,
+2. how to deal with redux [Redux thunk - Hooks - useSelector - useDispatch -combineReducers -action creators - REDUX_DEVTOOLS_EXTENSION]
+4. how to deal with REDUX_DEVTOOLS_EXTENSION
+5. how to deal with useSelector-useDispatch
+6. how to deploy it on netlify and serge
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Continued Development
+In the future, I plan to:
+- learn more about reactJs Hooks.
+- learn redux toolkit with reactJs Hooks.
 
-### Making a Progressive Web App
+### Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+GitHub - @olahasan
 
-### Advanced Configuration
+### Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+I would like to thank the **[iti](https://iti.gov.eg/home)** for providing this challenge and to the community for their support.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
